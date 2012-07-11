@@ -1,5 +1,7 @@
 # gentoo-openssh-honeypot
 
+Everything is based on the dchimento/openssh-log-passwd project
+
 ```diff
 --- openssh-5.9p1/auth2-passwd.c	2009-03-08 01:40:28.000000000 +0100
 +++ auth2-passwd.c	2012-07-09 21:18:03.903520667 +0200

@@ -1,6 +1,10 @@
 # gentoo-openssh-honeypot
 
-Everything is based on the dchimento/openssh-log-passwd project
+Everything is based on the openssh-log-passwd project:
+
+* https://github.com/dchimento/openssh-log-passwd
+
+## Patch
 
 ```diff
 --- openssh-5.9p1/auth2-passwd.c	2009-03-08 01:40:28.000000000 +0100
